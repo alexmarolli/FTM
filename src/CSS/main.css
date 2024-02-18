@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family:"Kanit-regular", 'SansSerif';
+    background-color: #595643;
+    color: #e7ddd3;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin: 12px 40px;
+}
+
+.itenList{
+    color: #c0c2bd;
+}
+
+.moreInfos{
+    width: 50%;
+    margin-bottom: 62px;
+}
+
+.presentation{
+    text-align: right;
+    width: 40%;
+    position: absolute;
+    right: 64px;
+}
